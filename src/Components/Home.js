@@ -1,8 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 function Home() {
   return (
-    <div>Home</div>
+    <div className='' >
+      {/* <img src={kitchen_home} alt="Kitchen" /> */}
+    </div>
   )
 }
 
