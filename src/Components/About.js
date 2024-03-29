@@ -18,7 +18,7 @@ function About() {
           leads through strategic advertising on leading social media platforms. 
           Our targeted approach not only allows you to focus on your core work but also 
           guarantees that your growth is fueled by genuinely interested clients. 
-          Experience seamless and efficient business growth with us."
+          Experience seamless and efficient business growth with us.
           </p>
 
         </div>
