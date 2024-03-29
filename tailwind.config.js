@@ -8,6 +8,9 @@ module.exports = {
       colors: {
         brandColor: '#1754B2', 
       },
+      fontFamily: {
+        brandFont: ['Montserrat'],
+      },
     },
   },
   plugins: [],
