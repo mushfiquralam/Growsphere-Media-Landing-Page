@@ -21,7 +21,7 @@ function Home() {
         </div>
         <div className='px-[15px]'>
           <div className='pt-[65px] pb-[15px]'>
-            <a href='#' className='bg-brandColor py-[15px] px-[40px] text-[24px] rounded-full font-bold shadow-blue-300 hover:shadow-md hover:shadow-blue-300'>
+            <a href='#contact' className='bg-brandColor py-[15px] px-[40px] text-[24px] rounded-full font-bold shadow-blue-300 hover:shadow-md hover:shadow-blue-300'>
               Get More Leads
             </a>
           </div>

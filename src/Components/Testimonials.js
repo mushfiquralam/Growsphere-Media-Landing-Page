@@ -21,7 +21,7 @@ function Testimonials() {
         {testimonialData.map((data, index) => (
           <div key={index} className="flex flex-col max-w-sm mx-4 h-[470px] shadow-lg">
             <div className="px-4 py-12 rounded-t-lg sm:px-8 md:px-12 dark:bg-gray-50 h-[85%]">
-              <p className="relative px-6 py-8 text-lg italic text-center dark:text-gray-800 overflow-hidden">
+              <p className="relative px-6 py-8 text-md italic text-center dark:text-gray-800 overflow-hidden">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" className="w-8 h-8 text-brandColor">
                   <path d="M232,246.857V16H16V416H54.4ZM48,48H200V233.143L48,377.905Z"></path>
                   <path d="M280,416h38.4L496,246.857V16H280ZM312,48H464V233.143L312,377.905Z"></path>

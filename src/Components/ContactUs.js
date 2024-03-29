@@ -3,9 +3,22 @@ import bathroom from '../Assets/Bathroom_image_contact_us.jpg';
 
 function ContactUs() {
   return (
-    <div className="bg-center bg-no-repeat bg-cover h-screen" style={{ backgroundImage: `url(${bathroom})` }}>
-      <div className="min-h-screen py-6 flex flex-col justify-center sm:py-12">
+    <div id='contact' className="bg-center bg-no-repeat bg-cover h-screen" style={{ backgroundImage: `url(${bathroom})` }}>
+      <div className='pt-[15px] px-[15px]'>
+        <div className='py-[10px] px-[5px]'>
+          <div className='pt-[60px] pb-[11px]'>
+            <h1 className='text-[47px] text-center font-semibold'>
+              Get 10 New Quote-Ready Leads
+            </h1>
+          </div>
+          <h1 className='text-[23px] text-brandColor text-center font-bold'>
+            Within 30 Days, or You Don't Pay
+          </h1>
+        </div>
+      </div>
+      <div className="min-h-screen">
         <div className="relative py-3 sm:max-w-xl sm:mx-auto">
+          
           <div className="text-black relative px-4 py-10 bg-gradient-to-r from-slate-300 to-slate-500 shadow-lg sm:rounded-3xl sm:p-20 opacity-85">
             <form>
               <input
